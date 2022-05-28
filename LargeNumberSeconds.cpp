@@ -23,7 +23,7 @@ int main()
     int seconds_Input; // INITILIZES THE VARIABLE (C++ WILL ASSIGN IT A RANDOM NUMBER)
     cout << "Please enter a large number of seconds: ";
     cin >> seconds_Input;
-
+    
     // PRINTS USER SECONDS INPUT TO HOURS
     int seconds_To_Hours = seconds_Input / SECONDS_IN_HOUR;
     cout << "The number of hours in the number is : " << seconds_To_Hours << endl;
