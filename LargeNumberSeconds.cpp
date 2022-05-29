@@ -45,3 +45,4 @@ int main()
 
 // I struggled mostly with minutes and seconds. I learned there is a difference between / and % arithmetic operators. This YouTube video helped https://youtu.be/vQUoisBnM5M by Chidre'sTechTutorials
 // Lets use 73 % 72 as an example. 72 x 1 = 72 and the remainder is 1 because 73 - 72 = 1. The % is basically the remainder so the answer is 1.
+// TEST
